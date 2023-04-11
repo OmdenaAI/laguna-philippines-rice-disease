@@ -51,4 +51,8 @@
 - Visualization     - Folder to store dashboards, analysis and visualization reports
 - Results           - Folder to store final analysis modelling results for the project.
 
+## Rough Sketch of the Output
+
+
+https://user-images.githubusercontent.com/73325913/231139567-88e1e430-e925-4143-9105-adad445064d3.mp4
 
