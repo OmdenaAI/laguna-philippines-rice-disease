@@ -3,10 +3,10 @@ import numpy as np
 import os
 
 # Specify the input directory containing leaf images
-input_dir = 'C:/Users/Rocelle/Downloads/initial/fungal_diseases/input/'
+input_dir = 'C:/Users/Rocelle Nathalie Ong/Downloads/initial/fungal_diseases/input'
 
 # Specify the output directory to save processed images
-output_dir = 'C:/Users/Rocelle/Downloads/initial/fungal_diseases/processed_images/'
+output_dir = 'C:/Users/Rocelle Nathalie Ong/Downloads/initial/fungal_diseases/processed_images/'
 
 # Create the output directory if it does not exist
 if not os.path.exists(output_dir):
@@ -18,6 +18,9 @@ for filename in os.listdir(input_dir):
         
         # Load the input image
         img = cv2.imread(os.path.join(input_dir, filename))
+        
+        # Resize the image to a specific size (e.g., 224x224)
+        img = cv2.resize(img, (224, 224))
 
         # Convert the image to grayscale
         gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
