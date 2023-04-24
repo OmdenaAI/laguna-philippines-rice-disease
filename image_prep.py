@@ -3,10 +3,10 @@ import numpy as np
 import os
 
 # Specify the input directory containing leaf images
-input_dir = 'C:/Users/Rocelle Nathalie Ong/Downloads/initial/fungal_diseases/input/'
+input_dir = 'C:/Users/Rocelle/Downloads/initial/fungal_diseases/input/'
 
 # Specify the output directory to save processed images
-output_dir = 'C:/Users/Rocelle Nathalie Ong/Downloads/initial/fungal_diseases/processed_images/'
+output_dir = 'C:/Users/Rocelle/Downloads/initial/fungal_diseases/processed_images/'
 
 # Create the output directory if it does not exist
 if not os.path.exists(output_dir):
