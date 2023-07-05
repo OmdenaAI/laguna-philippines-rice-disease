@@ -1,0 +1,5 @@
+streamlit
+matplotlib
+scikit-learn
+joblib
+tensorflow
