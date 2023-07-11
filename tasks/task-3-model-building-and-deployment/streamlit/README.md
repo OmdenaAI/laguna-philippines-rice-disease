@@ -3,15 +3,17 @@
 
 Step 1- Open the project in Pycham or VS code
 
-source venv/bin/activate
+```source venv/bin/activate```
 
 Step 2- Open Terminal and run the following commands 
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
-Step 3 - Download model through this [link](https://drive.google.com/drive/folders/1AqecoxHCx317F5IT3VfBYvCW1TeAYYNt?usp=drive_link). Place the model inside the app folder.
+Step 3- Download model through this [link](https://drive.google.com/drive/folders/1AqecoxHCx317F5IT3VfBYvCW1TeAYYNt?usp=drive_link). Place the model inside the app folder.
 
-streamlit run app/Home.py
+Step 4- Run the app
+
+```streamlit run app/Home.py```
 
 ## Optional - Alternative way to run the application
 Docker commands -
