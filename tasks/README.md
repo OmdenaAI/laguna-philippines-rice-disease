@@ -11,7 +11,5 @@ Note : Please Follow the below guidelines to create task folders
 
 | Task No| Task Name | Details |
 |-|-|-|
-|1|         |         |
-|2|         |         |
-|3|         |         |
-|4|         |         |
+|2| task-2-data-collection-and-processing |         |
+|3| task-3-model-building-and-deployment  |         |
