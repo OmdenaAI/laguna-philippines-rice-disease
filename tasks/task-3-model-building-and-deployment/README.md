@@ -1,4 +1,22 @@
-### Task Table
+# Folder Details and Structure
+
+<pre>
+task-3-model-building-and-deployment
+├── models (contains the model trained)
+│   ├── mobilenetv3large              							
+│   	└── ...												
+├── notebooks (contains the notebook use to train the model)
+│   ├── resnet50-finalized-model.ipynb             							        	         	
+├── streamlit
+│   ├── app             							
+│     └── ...
+│   ├── Dockerfile
+│   ├── README.md
+│   ├── packages.txt
+└── └── requirements.txt
+</pre>
+
+# Task Table
 
 |  Task No |Task Name   | Details  |
 |---|---|---|
