@@ -9,6 +9,8 @@ Step 2- Open Terminal and run the following commands
 
 pip install -r requirements.txt
 
+Step 3 - Download model through this [link](https://drive.google.com/drive/folders/1AqecoxHCx317F5IT3VfBYvCW1TeAYYNt?usp=drive_link). Place the model inside the app folder.
+
 streamlit run app/Home.py
 
 ## Optional - Alternative way to run the application
@@ -25,7 +27,7 @@ docker run -d --name appcontainer -p 8501:8501 appimage
 
    sudo yum install -y docker
 
-   sudo service docker start
+   sudo service docker start 
 
    sudo usermod -a -G docker ec2-user
 
