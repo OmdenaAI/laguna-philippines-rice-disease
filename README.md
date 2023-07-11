@@ -25,8 +25,5 @@
         └── task-3-model-building-and-deployment  <- folder for all tasks concerning training and deploying the model
 --------
 
-## Rough Sketch of the Output
-
-
-https://user-images.githubusercontent.com/73325913/231139567-88e1e430-e925-4143-9105-adad445064d3.mp4
+## Demo of the Output
 
