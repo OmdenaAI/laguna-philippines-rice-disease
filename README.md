@@ -20,7 +20,7 @@
     ├── README.md          <- Details about final reports and analysis
     │ 
     │   
-    └── tasks          <- Master folder for all individual task folders
+    └── tasks              <- Master folder for all individual task folders
 --------
 
 ## Rough Sketch of the Output
