@@ -1,0 +1,14 @@
+0 Blast
+1 False smut
+2 Brown spot
+3 Narrow spot
+4 Sheath bligh...
+5 Sheath rot
+6 Stem rot
+7 Bakanae
+8 BLB
+9 BLS
+10 Grassy stunt...
+11 Ragged virus
+12 Tungro virus
+13 Healthy
