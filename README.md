@@ -27,3 +27,4 @@
 
 ## Demo of the Output
 
+https://github.com/OmdenaAI/laguna-philippines-rice-disease/assets/23378836/cc33785a-67cc-4731-9472-cef3454f3231
